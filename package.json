@@ -1,0 +1,54 @@
+{
+  "_from": "git+https://github.com/acenturyandabit/free-google-image-search.git",
+  "_id": "free-google-image-search@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/free-google-image-search",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/acenturyandabit/free-google-image-search/",
+    "rawSpec": "https://github.com/acenturyandabit/free-google-image-search/",
+    "saveSpec": "git+https://github.com/acenturyandabit/free-google-image-search.git",
+    "fetchSpec": "https://github.com/acenturyandabit/free-google-image-search.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/acenturyandabit/free-google-image-search.git#2c6f9c87f2ad196746bb9accb9d16bc4a86cc633",
+  "_spec": "https://github.com/acenturyandabit/free-google-image-search/",
+  "_where": "/home/stevenliu/dev/instantmoviescript",
+  "author": {
+    "name": "Techblogogy"
+  },
+  "bugs": {
+    "url": "https://github.com/Techblogogy/free-google-image-search/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Search for images with Google, without the use of Custom Search JSON/Atom API",
+  "homepage": "https://github.com/Techblogogy/free-google-image-search#readme",
+  "keywords": [
+    "google",
+    "search",
+    "api",
+    "free"
+  ],
+  "license": "MIT License",
+  "main": "index.js",
+  "name": "free-google-image-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techblogogy/free-google-image-search.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
